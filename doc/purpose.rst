@@ -3,7 +3,7 @@
 Purpose
 =======
 
-Write me ...
+Its about counting words and so on...
 
 
 Zipf's law
