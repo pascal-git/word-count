@@ -25,6 +25,9 @@ Snakemake
 
 Write me ...
 
+::
+  $ snakemake -j 1
+
 
 Where to find the results
 -------------------------
